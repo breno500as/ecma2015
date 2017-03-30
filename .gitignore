@@ -8,4 +8,5 @@ target
 /client/node_modules/
 /client/js/app
 /node_modules/
+/.vscode/chrome
 npm-debug.log
